@@ -1,2 +1,1 @@
-#!/bin/bash
-tr -d "c" | tr -d "c"
+echo $'#!/bin/bash\ntr -d \"C\" | tr -d \"c\"'>20-hiago
