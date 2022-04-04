@@ -1,1 +1,2 @@
+#!/bin/bash
 echo $'#!/bin/bash\ntr -d \"C\" | tr -d \"c\"'>20-hiago
